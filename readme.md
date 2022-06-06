@@ -1,4 +1,4 @@
-**This app creates cuisine predictions for food images.**
+**This app creates cuisine predictions for food images**
 
 - Supported cuisines: Chinese, French, Italian, Indian, Japanese, Thai, Turkish.
 - Prediction accuracy is estimated to be ~80%.
